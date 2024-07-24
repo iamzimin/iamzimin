@@ -35,7 +35,7 @@ All of my projects are released as open-source on GitHub, this some of my projec
 
 <h3>📊 Github Stats</h3>
   
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamzimin&show_icons=true&theme=gotham" alt="iamzimin" 
+<img src="https://github-readme-stats.vercel.app/api?username=iamzimin&show_icons=true&theme=gotham" alt="iamzimin">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamzimin&theme=dark&background=000000)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamzimin&theme=dark&background=000000)
 
