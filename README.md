@@ -6,7 +6,7 @@
 <br>
 
 
-<h3>🤙 Connect with me</h3>
+### 🤙 Connect with me
 <p align="left">
 <a href="https://t.me/iamzimin" target="blank"><img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="iamzimin" height="30" width="40" /></a>
 <a href="https://instagram.com/iamzimin" target="blank"><img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="iamzimin" height="30" width="40" /></a>
@@ -15,25 +15,22 @@
 <br>
 
 
-<h3>🔨 Things I code with</h3>
+### 🔨 Things I code with
 Kotlin, Clean Architecture, Jetpack Compose, XML, Coroutine, Retrofit, Ktor, Room, Dagger, MVVM, Pagination, JUnit, Mockito.
 <br>
 <br>
 
 
-<h3>📝 My Opensource Projects</h3>
-All of my projects are released as open-source on GitHub, this some of my projects:
-
-- [RickAndMorty](https://github.com/iamzimin/RickAndMorty) - An application for viewing heroes, locations, episodes of the Rick and Morty universe.
-
-- [WeatherMediaSoft](https://github.com/iamzimin/WeatherMediaSoft) - An application for viewing the weather in the city, developed as a practical task for MediaSoft.
-
-- [LearnWithSubs](https://github.com/iamzimin/LearnWithSubs) - An application for learning languages in which it is possible to upload a video to which subtitles are generated, after which you can translate unknown words while watching the video and save them to the dictionary.
+### 📚 My Opensource Projects
+| Repository                                                                                | Link                                                                                                            | Description                                        |
+| ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| [RickAndMorty](https://github.com/iamzimin/RickAndMorty)                                  | [APK](https://github.com/iamzimin/RickAndMorty/releases/latest)                                                 | Viewing heroes, locations, episodes of the Rick and Morty universe.|
+| [WeatherMediaSoft](https://github.com/iamzimin/WeatherMediaSoft)                          | [APK](https://github.com/iamzimin/WeatherMediaSoft/releases/latest)                                             | Viewing the weather in the city, developed as a practical task for MediaSoft.|
+| [LearnWithSubs](https://github.com/iamzimin/LearnWithSubs)                                |                                                                                                                 | Learning languages in which it is possible to upload a video to which subtitles are generated, after which you can translate unknown words while watching the video and save them to the dictionary.|
 <br>
 
 
-
-<h3>📊 Github Stats</h3>
+### 📊 Github Stats
   
 <img src="https://github-readme-stats.vercel.app/api?username=iamzimin&show_icons=true&theme=gotham" alt="iamzimin">
 
