@@ -37,8 +37,9 @@
 ### 📚 My Opensource Projects
 | Repository                                                                                | Link                                                                                                            | Description                                        |
 | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| [FakeShop](https://github.com/iamzimin/FakeShop)                                            | [APK](https://github.com/iamzimin/FakeShop/releases/latest)                                                   | An application for viewing the product catalog and detailed information about each product.|
+| [Weather](https://github.com/iamzimin/Weather)                                            | [APK](https://github.com/iamzimin/Weather/releases/latest)                                                      | Viewing the weather in the city, developed as a practical task for MediaSoft.|
 | [RickAndMorty](https://github.com/iamzimin/RickAndMorty)                                  | [APK](https://github.com/iamzimin/RickAndMorty/releases/latest)                                                 | Viewing heroes, locations, episodes of the Rick and Morty universe.|
-| [WeatherMediaSoft](https://github.com/iamzimin/WeatherMediaSoft)                          | [APK](https://github.com/iamzimin/WeatherMediaSoft/releases/latest)                                             | Viewing the weather in the city, developed as a practical task for MediaSoft.|
 | [LearnWithSubs](https://github.com/iamzimin/LearnWithSubs)                                |                                                                                                                 | Learning languages in which it is possible to upload a video to which subtitles are generated, after which you can translate unknown words while watching the video and save them to the dictionary.|
 <br>
 
